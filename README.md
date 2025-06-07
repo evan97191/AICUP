@@ -1,2 +1,2 @@
 # AICUP
-use lightGBM
+use CNN and lightGBM
